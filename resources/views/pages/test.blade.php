@@ -82,6 +82,6 @@ html, body {
 	</div>
 	</div>
 	
-	<div class="container"> <div class="content"> <div class="title"> this is only for testing.</div></div>,/div>
+	<div class="container"> <div class="content"> <div class="title"> this is only for testing.</div></div></div>
 	</body>
 	</html>
