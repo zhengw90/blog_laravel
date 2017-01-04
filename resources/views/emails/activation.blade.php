@@ -3,6 +3,6 @@
 <p>
 	Please click the following link to activate your account
 
-	<a href="{{env('APP_URL')}}:8080/activate/{{$user->email}}/{{$code}}">activate account</a>
+	<a href="{{env('APP_URL')}}/activate/{{$user->email}}/{{$code}}">activate account</a>
 
 </p>

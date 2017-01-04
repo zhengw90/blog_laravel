@@ -18,7 +18,7 @@ class VisitorsMiddelware
     {
         if(!Sentinel::check() )
             return $next($request);
-        else 
+        else
             return redirect('/');
     }
 }
